@@ -1,0 +1,4 @@
+#Wed Oct 30 16:42:03 MDT 2019
+base.0=/home/wfenton/School/C301/Labs/LabExercise8/Lab-8-Template-Wednesday/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
