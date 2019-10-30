@@ -102,7 +102,7 @@ class CityListTest {
         cityList.add(city);
 
         assertEquals(2, cityList.countCities());
-        
+
         cityList.clear();
 
         assertEquals(0, cityList.countCities());
