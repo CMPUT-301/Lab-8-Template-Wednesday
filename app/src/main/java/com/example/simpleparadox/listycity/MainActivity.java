@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     ArrayList<City> cityDataList;
 
     CustomList customList;
-
+    blah blah blah
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
