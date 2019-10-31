@@ -77,4 +77,13 @@ public class CityList {
     public int countCities() {
         return cities.size();
     }
+	
+	/**
+	* A test that will fail
+	* @return
+	* 	True
+	*/
+	public boolean failFunction() {
+		return true;
+	}
 }
