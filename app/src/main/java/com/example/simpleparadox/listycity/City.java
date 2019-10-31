@@ -1,6 +1,6 @@
 package com.example.simpleparadox.listycity;
 
-public class City implements Comparable<City>{
+public class City implements Comparable <City>{
     private String city;
     private String province;
 
