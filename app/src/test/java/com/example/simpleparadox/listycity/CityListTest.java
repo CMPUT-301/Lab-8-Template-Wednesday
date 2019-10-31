@@ -106,8 +106,9 @@ class CityListTest {
         if (citiesInProvince.size() != 0) {
             for (int i = 0; i < citiesInProvince.size(); i++) {
                 assertEquals("Alberta", citiesInProvince.get(i).getProvinceName());
+                String string = "Random string";
             }
         }
-    }//Simulating changes
+    }//Simulating changeskhkvkkv
 
 }
