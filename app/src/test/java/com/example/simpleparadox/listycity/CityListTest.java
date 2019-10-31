@@ -98,6 +98,8 @@ class CityListTest {
     void testRemoveCity() {
         CityList cityList = mockCityList();
 
+        cityList.delete(mockCity());
+
         assertFalse(cityList.hasCity(mockCity()));
     }
 }
