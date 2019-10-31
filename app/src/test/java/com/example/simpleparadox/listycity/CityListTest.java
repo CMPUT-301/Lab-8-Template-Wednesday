@@ -98,7 +98,7 @@ class CityListTest {
     void testAddVictoria() {
         CityList cityList = mockCityList();
 
-        City victoria = new City("VictoriB", "British Columbia");
+        City victoria = new City("Victoria", "British Columbia");
 
         City city = new City("Victoria", "British Columbia");
         cityList.add(city);
