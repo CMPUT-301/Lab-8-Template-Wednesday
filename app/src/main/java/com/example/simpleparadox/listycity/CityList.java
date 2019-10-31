@@ -77,4 +77,15 @@ public class CityList {
     public int countCities() {
         return cities.size();
     }
+
+    /**
+     * Return cities with the given province
+     * @param province
+     *      the province that contains the cities you are looking for
+     * @return
+     *      a list of city objects with the given province
+     */
+   //public ArrayList<City> getCitiesInProvince(String province){
+
+    //}
 }
