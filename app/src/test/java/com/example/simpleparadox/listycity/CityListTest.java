@@ -108,6 +108,6 @@ class CityListTest {
                 assertEquals("Alberta", citiesInProvince.get(i).getProvinceName());
             }
         }
-    }
+    }//Simulating changes
 
 }
