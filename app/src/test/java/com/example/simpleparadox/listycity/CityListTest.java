@@ -100,7 +100,7 @@ class CityListTest {
 
         City victoria = new City("Victoria", "British Columbia");
 
-        City city = new City("VictoriB", "British Columbia");
+        City city = new City("Victoria", "British Columbia");
         cityList.add(city);
 
         assertEquals(0, victoria.compareTo(cityList.getCities().get(1)));
