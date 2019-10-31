@@ -9,7 +9,7 @@ import java.util.List;
  */
 public class CityList {
     private List<City> cities = new ArrayList<>();
-
+    
     /**
      * This adds a city to the list if the city does not exist
      * @param city
