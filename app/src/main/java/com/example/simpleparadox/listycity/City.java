@@ -17,8 +17,8 @@ public class City implements Comparable<City>{
         return this.province;
     }
     
-    String faultyMethod() {
-        return 0;
+    String correctedMethod() {
+        return "Hello";
     }
 
     @Override
