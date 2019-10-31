@@ -69,6 +69,14 @@ public class CityList {
         }
     }
 
+    /***
+     * This function has not been implemented yet
+     */
+    public void clearAll(){
+
+    }
+
+
     /**
      * Return the size of the city list
      * @return
