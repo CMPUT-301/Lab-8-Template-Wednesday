@@ -16,6 +16,10 @@ public class City implements Comparable<City>{
     String getProvinceName(){
         return this.province;
     }
+    
+    String faultyMethod() {
+        return 0;
+    }
 
     @Override
     public int compareTo(City o) {
