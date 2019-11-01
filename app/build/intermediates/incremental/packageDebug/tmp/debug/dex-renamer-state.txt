@@ -1,0 +1,4 @@
+#Wed Oct 30 17:49:35 MDT 2019
+base.0=/Users/stevenlagrange/AndroidStudioProjects/CMPUT301/Lab8/Lab-8-Template-Wednesday/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

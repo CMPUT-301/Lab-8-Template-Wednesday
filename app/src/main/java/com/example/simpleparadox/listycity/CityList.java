@@ -77,4 +77,12 @@ public class CityList {
     public int countCities() {
         return cities.size();
     }
+
+
+    /**
+     * Lab 8 exercise function for testing
+     */
+    public int labExercise() {
+        return 1;
+    }
 }
