@@ -1,0 +1,4 @@
+#Sun Nov 03 23:49:49 MST 2019
+base.0=/home/tuhdo/Documents/cmput301/labs/lab8-travisCI/Lab-8-Template-Wednesday/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
