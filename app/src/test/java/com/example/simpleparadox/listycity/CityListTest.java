@@ -96,6 +96,7 @@ class CityListTest {
 
     @Test
     void testGetCityLength() {
-        
+        CityList cityList = mockCityList();
+        assertEquals(5, cityList.getCities().get(0).getCityName().length());
     }
 }
