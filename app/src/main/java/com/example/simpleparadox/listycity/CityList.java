@@ -70,6 +70,14 @@ public class CityList {
     }
 
     /**
+     * Deletes all cities in the list
+     */
+
+    public void deleteAll() {
+
+    }
+
+    /**
      * Return the size of the city list
      * @return
      *      Size of city list
