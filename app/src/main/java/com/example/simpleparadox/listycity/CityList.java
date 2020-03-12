@@ -1,5 +1,8 @@
 package com.example.simpleparadox.listycity;
 
+import android.preference.PreferenceManager;
+import android.util.Log;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -72,9 +75,10 @@ public class CityList {
     /**
      * Deletes all cities in the list
      */
-
     public void deleteAll() {
-
+        while (cities.size() > 0) {
+            cities.remove(cities.size()-1);
+        }
     }
 
     /**
