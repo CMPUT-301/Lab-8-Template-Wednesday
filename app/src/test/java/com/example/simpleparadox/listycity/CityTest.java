@@ -9,7 +9,7 @@ public class CityTest {
     @Test
     void testGetCityName() {
         City city = new City("Edmonton", "AB");
-
+        City city1;
         assertTrue(city.getCityName().equals("Edmonton"));
     }
 
