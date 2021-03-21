@@ -10,7 +10,7 @@ public class CityTest {
     void testGetCityName() {
         City city = new City("Edmonton", "AB");
 
-        assertTrue(city.getCityName().equals("Not Edmonton"));
+         assertTrue(city.getCityName().equals("Not Edmonton"));
     }
 
 }
