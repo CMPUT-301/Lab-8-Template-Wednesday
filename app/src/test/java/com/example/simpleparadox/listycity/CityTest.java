@@ -8,9 +8,10 @@ public class CityTest {
 
     @Test
     void testGetCityName() {
-        City city = new City("Edmonton", "AB");
+        City city1 = new City("Edmonton", "AB");
+        City city2;
 
-         assertTrue(city.getCityName().equals("Not Edmonton"));
+        assertTrue(city1.getCityName().equals("Not Edmonton"));
     }
 
 }
