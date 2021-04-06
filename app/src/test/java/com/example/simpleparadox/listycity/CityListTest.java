@@ -5,6 +5,11 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+@Test
+void  failTest()
+    assertEquals(2, equalsTwo());
+}
+
 class CityListTest {
 
     private CityList mockCityList() {

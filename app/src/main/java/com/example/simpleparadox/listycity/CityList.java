@@ -22,6 +22,11 @@ public class CityList {
         cities.add(city);
     }
 
+    // Test that needs to be implemented!!
+    public int equalsTwo() {
+        return 2;
+    }
+    
     /**
      * This returns a sorted list of cities
      * @return
